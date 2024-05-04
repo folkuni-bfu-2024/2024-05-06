@@ -20,3 +20,10 @@ Inspelning
 
 [A complete guide to flexbox | CSS tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
 
+[CSS Flexbox course | Youtube 48 min](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+
+Interaktiv [videokurs på Scrimba](https://scrimba.com/learn/flexbox)
+
+---
+
+Nästa vecka börjar vi med JavaScript. En bra gratis snabbkurs i detta hittar du på Scrimba: https://scrimba.com/learn/introtojavascript

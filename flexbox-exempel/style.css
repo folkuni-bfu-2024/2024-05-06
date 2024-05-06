@@ -65,3 +65,13 @@ h1 {
 	color: rgb(130, 227, 130);
 	text-align: center;
 }
+
+.shorthand {
+	/* margin, padding, border m.fl. är "shorthands" */
+	margin: 1em;
+	padding: 0.5em;
+	border: 1em solid black;
+	border-top: 1em dotted rgb(58, 58, 58);
+	border-right: 0.5em solid rgb(166, 66, 66);
+	border-bottom: 2em dashed rgb(199, 199, 81);
+}

@@ -8,12 +8,12 @@ Lektion vecka 2, CSS layout
 Kodexempel i mappen `flexbox-exempel`.
 
 Veckoprojekt
-+ Beskrivning - kommer
-+ Lämna in här - kommer
++ [Beskrivning](project.md)
++ [Lämna in här](https://docs.google.com/forms/d/e/1FAIpQLSc85Y5xdaKXfSG1Ei5o0hVXmRPjpq4eDcCuNTvE5r-aDsZ0uQ/viewform?usp=sf_link)
 
 Inspelning
-+ Länk till inspelning av lektionen - kommer
-+ Lösenkod kommer
++ [Länk till inspelning av lektionen](https://folkuniversitetet-se.zoom.us/rec/share/QlghOLZzgM1Dj_56ZNC1MZbCdAOkXOqvmPmuzeyyV6U2vQ4EjVBF7ejhdKC1GNSF.qjMx0EDV_LRbdIg6)
++ Lösenkod: `4f2JpG#$`
 
 
 ## Resurser

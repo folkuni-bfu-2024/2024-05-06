@@ -5,6 +5,8 @@ Lektion vecka 2, CSS layout
 + [Övningar](exercises.md)
 + Presentation: [03 CSS flexbox](https://docs.google.com/presentation/d/1g_t6WQ3MbiRbJzMheRiIQl_R81TtAYD6O0SL4yjW4Cg/edit?usp=sharing)
 
+Kodexempel i mappen `flexbox-exempel`.
+
 Veckoprojekt
 + Beskrivning - kommer
 + Lämna in här - kommer

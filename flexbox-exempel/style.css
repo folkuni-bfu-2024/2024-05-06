@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+}
+header {
+	background-color: rgb(53, 147, 224);
+	padding: 1rem;
+}
+main {
+	background-color: rgb(143, 198, 250);
+	padding: 1rem;
+}
+h1 {
+	margin: 0px;
+}
+
+.framed {
+	border: 1px solid black;
+	margin: 0.5rem;
+	padding: 0.5rem;
+}
+
+.columns {
+	display: flex;
+	flex-direction: row;
+}
+
+.box {
+	width: 1rem;
+	height: 1rem;
+	border: 2px solid brown;
+}
